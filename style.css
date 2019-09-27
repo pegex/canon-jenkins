@@ -12,9 +12,9 @@ body {
 }
 
 .logo {
-    width: 154px !important;
-    height: 34px !important;
-    background: url('logo-rackspace.png') no-repeat;
+    width: 161px !important;
+    height: 41px !important;
+    background: url('pegex-logo-white.png') no-repeat;
     margin-top: 8px;
     cursor: pointer;
 }
