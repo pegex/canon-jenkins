@@ -14,7 +14,7 @@ body {
 .logo {
     width: 161px !important;
     height: 41px !important;
-    background: url('pegex-logo-white.png') no-repeat;
+    background: url('pegex-logo-white-jenkins.png') no-repeat;
     cursor: pointer;
 }
 
